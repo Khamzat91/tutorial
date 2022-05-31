@@ -1,0 +1,26 @@
+.item {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-wrap: wrap;
+  width: 250px;
+  padding-top: 15px;
+  border: 1px solid grey;
+  border-radius: 10px;
+  margin-left: 300px;
+}
+
+.list__title{
+  font-weight: 400;
+  color: grey;
+  margin-left: -55px;
+}
+
+.box__title{
+  margin-left: -20px;
+}
+
+.box__button {
+  width: 200px;
+  margin: 15px;
+}
